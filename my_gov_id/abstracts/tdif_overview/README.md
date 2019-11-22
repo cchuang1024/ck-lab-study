@@ -25,7 +25,19 @@
 #### 關鍵詞彙
 
 * UNCITRAL, United Nations Commission on International Trade Law, 聯合國國際貿易法委員會
-* authoritative source, 
+* authoritative source, 權威來源 (指具身份識別的發布與詮釋權機構)
+* a group of participating entities, 一群參與的個體
+* identity attribute information, 身份識別屬性資訊
+* identity transaction, 身份識別交易 (transaction 另一解釋是協議，但不確定哪個合適)
+* syndicated, 聯合的，原指一稿多投的行為，引身為同本質，但具有多個身份認證管道，類似 SSO 概念
+* federated, 聯盟的，對比 syndicated，指的是不同本質，但互相承認的身份認證機制
+* decentralized, 去中心化，在此指身份識別不是由統一的權威機構管理
+* identity provider, 身份識別提供者
+* bilateral agreements, 雙邊協議
+* Service Level Agreements, 服務等級協議
+* a federated identity system, 一個聯盟性的身份識別系統
+* functionality, 功能性
+* trustworthiness, 可信度
 
 #### 本章大意
 
